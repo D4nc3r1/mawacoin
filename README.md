@@ -3,7 +3,7 @@ Mawacoin [MAW]
 
 Tribus Algo PoW/PoS Hybrid Cryptocurrency
 
-https://avatars1.githubusercontent.com/u/16735949?s=460&v=4
+
 
 Live Chat link using a telegram: t.me/mawacoin
 
