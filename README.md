@@ -3,7 +3,7 @@ Mawacoin [MAW]
 
 Tribus Algo PoW/PoS Hybrid Cryptocurrency
 
-logo
+https://avatars1.githubusercontent.com/u/16735949?s=460&v=4
 
 Live Chat link using a telegram: t.me/mawacoin
 
@@ -50,7 +50,7 @@ Developers work in their own trees, then submit pull requests when they think th
 
 The patch will be accepted if there is broad consensus that it is a good thing. Developers should expect to rework and resubmit patches if they don't match the project's coding conventions (see coding.txt) or are controversial.
 
-The master branch is regularly built and tested, but is not guaranteed to be completely stable. Tags are regularly created to indicate new stable release versions of Denarius.
+The master branch is regularly built and tested, but is not guaranteed to be completely stable. Tags are regularly created to indicate new stable release versions of Mawacoin.
 
 Feature branches are created when there are major new features being worked on by several people.
 
