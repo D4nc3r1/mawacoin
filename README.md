@@ -15,7 +15,7 @@ Ticker: MAW
 
 Mawacoin [MAW] is an anonymous, untraceable, energy efficient, Proof-of-Work (New Tribus Algorithm) and Proof-of-Stake cryptocurrency.
 
-80,000,000 MAW will be created in about 3 years during the PoW phase. Denarius has a 10% Premine of 8,000,000 MAW for bounties, distribution, and marketing.
+80,000,000 MAW will be created in about 3 years during the PoW phase. Mawacoin has a 10% Premine of 8,000,000 MAW for bounties, distribution, and marketing.
 Specifications
 
     Total number of coins: 80,000,000 MAW
