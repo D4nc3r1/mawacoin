@@ -1,7 +1,7 @@
 <h1>Mawacoin [MAW]</h1>
 
 
-<h1>Tribus Algo PoW/PoS Hybrid Cryptocurrency</h1>
+Tribus Algo PoW/PoS Hybrid Cryptocurrency
 
    ![alt text](https://avatars1.githubusercontent.com/u/16735949?s=460&v=4)
    
@@ -19,7 +19,8 @@ Ticker: MAW
 Mawacoin [MAW] is an anonymous, untraceable, energy efficient, Proof-of-Work (New Tribus Algorithm) and Proof-of-Stake cryptocurrency.
 
 80,000,000 MAW will be created in about 3 years during the PoW phase. Mawacoin has a 10% Premine of 8,000,000 MAW for bounties, distribution, and marketing.
-Specifications
+
+<h1>Specifications</h1>
 <ul>
   <li>Total number of coins: 80,000,000 MAW</li>
   <li>Ideal block time: 30 seconds</li>
@@ -30,6 +31,7 @@ Specifications
   <li>Cost of Hybrid Masternode: 5,000 MAW</li>
   <li>Hybrid Masternode Reward: 33% of current block reward</li>
 </ul>
+
 <h1>Technology</h1>
 <ul>
   <li>Hybrid PoW/PoS Masternodes</li>
@@ -41,6 +43,7 @@ Specifications
   <li>Tribus PoW/PoS Hybrid</li>
   <li>Full decentralization</li>
 </ul>
+
 <h1>Links</h1>
 <ul>
 <li>Official Website(<a href="https://mawacoin.io/" rel="nofollow">https://mawacoin.io/</a>)</li>
